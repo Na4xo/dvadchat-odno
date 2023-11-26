@@ -1,0 +1,7 @@
+W = 600
+H = 800
+
+COLOR_RED = '#A52A2A'
+COLOR_BLUE = '#0000EE'
+
+FONT = 'Times New Roman'
